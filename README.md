@@ -1,4 +1,4 @@
-# Desafio-GitHub-primeiro-reposit-rio
+# Desafio-GitHub-primeiro-repositorio
 [Desafio de projetos da DIO sobre git/gitHub]
 
 ##links uteis
